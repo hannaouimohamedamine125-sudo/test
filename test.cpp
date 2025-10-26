@@ -70,4 +70,5 @@ int main(){
 	maxarray(arr,s);
     cout<<"hello casablanca";
 	cout<<"hello morocco";
+    cout<<"testing git ignore";
 return 0;}
