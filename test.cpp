@@ -68,4 +68,5 @@ int main(){
 	sumarray(arr,sum,s);
 	minarray(arr,s);
 	maxarray(arr,s);
+    cout<<"hello casablanca";
 return 0;}
