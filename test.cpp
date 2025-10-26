@@ -69,4 +69,5 @@ int main(){
 	minarray(arr,s);
 	maxarray(arr,s);
     cout<<"hello casablanca";
+	cout<<"hello morocco";
 return 0;}
