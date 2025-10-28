@@ -77,6 +77,5 @@ int main ()
 	uppertriangular(arr,size);
 	lowertriangular(arr,size);
 	diagonal(arr,size);
-	cout<<"thank you for your time";
 
 return 0;}
